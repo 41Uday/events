@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.hed-ac {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: 600;
+  margin: 20px;
+}
+
+.bg-ac-cont {
+  text-align: center;
+  margin-left: 100px;
+}
+
+.r-img {
+  height: 100px;
+  width: 100px;
+  border-radius: 75px;
+}
+
+.r-img-2 {
+  height: 300px;
+  width: 250px;
+}
+
+.r-para {
+  color: #64748b;
+  font-family: 'Roboto';
+}
+
+.r-butt {
+  height: 40px;
+  width: 220px;
+  border-radius: 8px;
+  border: none;
+  background-color: #0967d2;
+  color: white;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+
+.r-img-3 {
+  height: 250px;
+  width: 250px;
+  border-radius: 100px;
+}
+
+.r-hed-2 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  color: #3a4b63;
+}
